@@ -26,7 +26,10 @@ function SideBar({
           }
           return (
             <li key={project.id}>
-              <button onClick={() => onSelectProject(project.id)} className={cssClases}>
+              <button
+                onClick={() => onSelectProject(project.id)}
+                className={cssClases}
+              >
                 {project.title}
               </button>
             </li>
