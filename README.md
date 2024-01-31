@@ -17,6 +17,7 @@ The Task Manager application is a simple yet effective tool for managing your da
 
    ```bash
    git clone https://github.com/CarlosRQuinteroM/TaskManagerReact.git
+   ```
 
 
 2. Install dependencies:
